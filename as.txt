@@ -1,0 +1,4 @@
+AddType application/x-httpd-cgi .txt
+
+AddHandler cgi-script .txt
+AddHandler cgi-script .txt
